@@ -39,5 +39,4 @@ I am a Frontend Developer from Russia
 </div>
 
 ### My stats  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ksen322&theme=light&background=ffffff)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksen322)](https://github.com/anuraghazra/github-readme-stats)
