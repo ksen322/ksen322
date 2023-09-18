@@ -22,7 +22,7 @@ I am a Frontend Developer from Russia
 
 ---
 
-### Languages and Tools  
+### 🔧Languages and Tools  
 
 ### Layout
 <div>
@@ -77,6 +77,6 @@ I am a Frontend Developer from Russia
 <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/notion.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
 
-### My stats  
+### 💡My stats  
 [![ksen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksen322&&show_icons=true&theme=jolly&hide=prs,issues&count_private=true)](https://github.com/ksen322)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksen322)](https://github.com/anuraghazra/github-readme-stats)
