@@ -24,7 +24,7 @@ I am a Frontend Developer from Russia
 
 ### 🔧Languages and Tools  
 
-### Layout
+### ~Layout
 <div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' title = 'HTML' alt = 'HTML' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' title = 'CSS' alt = 'CSS' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
@@ -32,7 +32,7 @@ I am a Frontend Developer from Russia
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' title = 'Figma' alt = 'Figma' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
 </div>
 
-### JavaScript development
+### ~JavaScript development
 <div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' title = 'JavaScript' alt = 'JavaScript' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' title = 'Node JS' alt = 'Node JS' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
@@ -40,12 +40,12 @@ I am a Frontend Developer from Russia
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' title = 'React' alt = 'React' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
 </div>
 
-### Deployment
+### ~Deployment
 <div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg' title = 'FileZilla' alt = 'FileZilla' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
 </div>
 
-### Software for engineering development
+### ~Software for engineering development
 
 <div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg' title = 'arduino' alt = 'arduino' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
@@ -55,7 +55,7 @@ I am a Frontend Developer from Russia
   <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/mc12-logo.png" title="MicroCap12" alt="MicroCap12" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
 </div>
 
-### IDE
+### ~IDE
 
 <div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' title = 'VS Code' alt = 'VS Code' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
@@ -63,24 +63,24 @@ I am a Frontend Developer from Russia
   <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/pycharm.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
 </div>
 
-### Git
+### ~Git
 <div>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' title = 'git' alt = 'git' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg' title = 'GitHub' alt = 'GitHub' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg' title = 'GitLab' alt = 'GitLab' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
 </div>
 
-### Others
+### ~Others
 <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title = 'Python' alt = 'Python' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
 
-### Trackers
+### ~Trackers
 <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/notion.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
 
 ---
 
 ### 💡My stats  
-[![ksen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksen322&&show_icons=true&theme=jolly&hide=prs,issues&count_private=true)](https://github.com/ksen322)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksen322)](https://github.com/anuraghazra/github-readme-stats)
+[![ksen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksen322&show_icons=true&theme=transparent)](https://github.com/ksen322)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksen322&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
