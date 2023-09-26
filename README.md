@@ -71,7 +71,10 @@ I am a Frontend Developer from Russia
 </div>
 
 ### ~Others
-<img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title = 'Python' alt = 'Python' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;
+<div>
+<img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title = 'Python' alt = 'Python' width = '40' height = '40'/>&nbsp; &nbsp; &nbsp; &nbsp;  
+<img src = 'https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' title = 'MySQL' alt = 'MySQL' height = '40'>&nbsp; &nbsp; &nbsp; &nbsp; 
+</div>
 
 ### ~Trackers
 <img src="https://github.com/FaNtic1337/FaNtic1337/blob/main/icons/notion.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
