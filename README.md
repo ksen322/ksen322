@@ -84,6 +84,6 @@ I am a Frontend Developer from Russia
 
 ### 💡My stats  
 [![ksen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksen322&show_icons=true&theme=transparent)](https://github.com/ksen322)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksen322&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksen322&langs_count=20&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
